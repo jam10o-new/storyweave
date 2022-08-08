@@ -1,2 +1,2 @@
 # storyweave
-Browse the web of stories
+Traverse the weave of stories
