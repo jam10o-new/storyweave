@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "web-ext": "^7.2.0"
+  },
+  "scripts": {
+    "start:firefox": "web-ext run --source-dir ./public/"
+  }
+}
